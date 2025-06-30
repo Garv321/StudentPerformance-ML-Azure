@@ -1,1 +1,1 @@
-# End to End machine learning project with aws deployment
+# End to End Student Performance Machine Learning Project with Azure deployment.
