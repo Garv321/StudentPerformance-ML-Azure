@@ -1,7 +1,0 @@
-[2025-06-08 19:53:35,893] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:76} INFO - Read train and test data completed.
-[2025-06-08 19:53:35,894] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:56} INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
-[2025-06-08 19:53:35,894] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:57} INFO - Numerical columns: ['writing_score', 'reading_score']
-[2025-06-08 19:53:35,896] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:88} INFO - Applying preprocessing object on training and testing datasets.
-[2025-06-08 19:53:35,924] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:95} INFO - Saving preprocessing object.
-[2025-06-08 19:53:35,931] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\model_trainer.py:33} INFO - Splitting training and test input data
-[2025-06-08 19:53:35,932] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\model_trainer.py:77} ERROR - Model saving failed with error: evaluate_models() got an unexpected keyword argument 'x_test'

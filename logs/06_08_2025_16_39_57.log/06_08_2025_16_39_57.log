@@ -1,4 +1,0 @@
-[2025-06-08 16:39:57,879] {src/components/data_ingestion.py:28} INFO - Entered the data ingestion method/component
-[2025-06-08 16:39:57,902] {src/components/data_ingestion.py:33} INFO - Read the dataset as dataframe
-[2025-06-08 16:39:57,902] {src/components/data_ingestion.py:42} INFO - Train-test split initiated
-[2025-06-08 16:39:57,917] {src/components/data_ingestion.py:49} INFO - Ingestion of data is completed

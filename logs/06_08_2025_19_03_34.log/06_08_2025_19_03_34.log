@@ -1,9 +1,0 @@
-[2025-06-08 19:03:34,333] {src/components/data_ingestion.py:29} INFO - Entered the data ingestion method/component
-[2025-06-08 19:03:34,339] {src/components/data_ingestion.py:34} INFO - Read the dataset as dataframe
-[2025-06-08 19:03:34,346] {src/components/data_ingestion.py:43} INFO - Train-test split initiated
-[2025-06-08 19:03:34,360] {src/components/data_ingestion.py:50} INFO - Ingestion of data is completed
-[2025-06-08 19:03:34,401] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:76} INFO - Read train and test data completed.
-[2025-06-08 19:03:34,401] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:56} INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
-[2025-06-08 19:03:34,401] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:57} INFO - Numerical columns: ['writing_score', 'reading_score']
-[2025-06-08 19:03:34,401] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:88} INFO - Applying preprocessing object on training and testing datasets.
-[2025-06-08 19:03:34,432] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:95} INFO - Saving preprocessing object.

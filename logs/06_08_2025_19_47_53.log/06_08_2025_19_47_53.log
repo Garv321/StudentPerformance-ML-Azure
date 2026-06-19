@@ -1,6 +1,0 @@
-[2025-06-08 19:47:55,023] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:76} INFO - Read train and test data completed.
-[2025-06-08 19:47:55,024] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:56} INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
-[2025-06-08 19:47:55,024] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:57} INFO - Numerical columns: ['writing_score', 'reading_score']
-[2025-06-08 19:47:55,027] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:88} INFO - Applying preprocessing object on training and testing datasets.
-[2025-06-08 19:47:55,055] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\data_transformation.py:95} INFO - Saving preprocessing object.
-[2025-06-08 19:47:55,063] {C:\Users\garvs\OneDrive\Desktop\mlprojects\src\components\model_trainer.py:33} INFO - Splitting training and test input data
